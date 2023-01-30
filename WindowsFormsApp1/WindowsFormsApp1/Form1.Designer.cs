@@ -42,6 +42,7 @@
             this.gradeTextbox = new System.Windows.Forms.TextBox();
             this.branchTextbox = new System.Windows.Forms.TextBox();
             this.Createbutton = new System.Windows.Forms.Button();
+            this.pageSetupDialog1 = new System.Windows.Forms.PageSetupDialog();
             this.SuspendLayout();
             // 
             // label1
@@ -222,6 +223,7 @@
         private System.Windows.Forms.TextBox gradeTextbox;
         private System.Windows.Forms.TextBox branchTextbox;
         private System.Windows.Forms.Button Createbutton;
+        private System.Windows.Forms.PageSetupDialog pageSetupDialog1;
     }
 }
 
