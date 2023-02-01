@@ -1,0 +1,11 @@
+D:\Jancode\calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Jancode\calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Jancode\calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Jancode\calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\Jancode\calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+D:\Jancode\calculator\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\Jancode\calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Jancode\calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Jancode\calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Jancode\calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Jancode\calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
